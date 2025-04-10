@@ -1,108 +1,155 @@
 # GenData Capstone Project Proposal Template
 
-### Project Title
-
-[Impact of AI on Digital Media]
+### Project Title: Impact of AI on Digital Media
 
 ### Project Summary
-[This dataset explores the influence of AI-generated content across various industries, including journalism, social media, entertainment, and marketing. It provides insights into public sentiment, engagement trends, economic impact, and regulatory responses over time.
+This project leverages a dataset exploring the rise of AI-generated content across industries such as journalism, social media, entertainment, and marketing. Using Excel, SQL, and Tableau, the project aims to uncover insights about public sentiment, engagement metrics, economic impacts, and evolving regulatory trends.
 
-With AI-generated content becoming increasingly prevalent, this dataset serves as a valuable resource for data analysts, business strategists, and machine learning researchers to study trends, detect biases, and predict future AI adoption patterns.]
+The findings will be useful for data analysts, content strategists, and policy makers interested in tracking the growth and consequences of AI-generated media. Through structured analysis and visualization, the project will highlight emerging patterns and potential areas for further research.
 
 ## Problem Statement
 
-This dataset explores the influence of AI-generated content across various industries, including journalism, social media, entertainment, and marketing. It provides insights into public sentiment, engagement trends, economic impact, and regulatory responses over time.
+The increasing prevalence of AI-generated content raises questions about its impact on traditional media, consumer engagement, and economic outcomes. This project seeks to answer:
 
-With AI-generated content becoming increasingly prevalent, this dataset serves as a valuable resource for data analysts, business strategists, and machine learning researchers to study trends, detect biases, and predict future AI adoption patterns.
+- How has public sentiment evolved regarding AI-generated content?
+
+- What engagement trends are associated with AI media in various industries?
+
+- What economic and regulatory shifts have occurred alongside AI content adoption?
+
+The goal is to provide actionable insights and forecasts by analyzing structured data using Excel, SQL, and Tableau.
 
 ## Technical Details
 
 ### Excel Components
+   - Core Concepts to Be Used
 
-1. Core Excel Concepts to Be Used
+Data Cleaning: Removing duplicates, handling missing values
 
-Data Types: Strings, Lists, Dictionaries, etc., for handling structured and unstructured data.
+Data Transformation: Creating calculated columns and conditional formatting
 
-Control Structures: Loops and Conditional Statements for logic implementation.
+Pivot Tables & Charts: For summary statistics and trend visualization
 
-Functions: Modularize repetitive tasks and improve readability.
+Lookup Functions: VLOOKUP, HLOOKUP, and INDEX-MATCH for data joining
 
-Object-Oriented Programming: If you plan to build more complex models and systems.
+   - Key Excel Visualizations
 
-File Handling: Reading from and writing to files for data storage and manipulation.
+Line graphs for time-based sentiment analysis
 
-3. SQL
+Bar charts for industry-specific engagement comparisons
 
-pandas: For data manipulation and analysis.
 
-numpy: For numerical computations and handling arrays.
+### SQL Components
 
-Tableau: For data visualization to understand spending patterns.
+   - Database Tool: MySQL
+   - Key SQL Concepts:
 
-sqlite3 or SQLAlchemy: If managing credit card spending data in a database.
+Data extraction using SELECT, JOIN, WHERE, GROUP BY, ORDER BY Aggregation: AVG(), COUNT(), SUM()
+Creating views for cleaned datasets Using subqueries to identify trends or top-performing content types
 
-4. Tableau
-5. Report Writing
+### Tableau Components
+   - Key Features:
+
+Dashboards summarizing engagement trends by industry
+
+Sentiment heat maps over time
+
+Filters for users to select industries, timeframes, or regions
+
+   - Visuals:
+
+Interactive line graphs
+
+Tree maps for content distribution
+
+Sentiment-over-time timeline
+
+### Report Writing
+Executive summary with key insights
+
+Methodology (tools, techniques, assumptions)
+
+Data explanation and source information
+
+Visualizations and interpretation
+
+Conclusion and recommendations
 
 
 ## Program Structure
 
 
 ### Core Features
-Input Handling: Collecting data from CSV files, databases.
+1. Data Collection & Input Handling
 
-Data Preprocessing: Cleaning, transforming, and organizing data.
+   - Import from CSV or database
 
-Analysis Phase: Applying statistical .
+   - Organize into Excel and SQL tables
 
-Visualization: Generating insights through graphs and charts.
+2. Preprocessing
 
-Output: Presenting findings and potential recommendations.  ```
+   - Clean and normalize datasets in Excel/SQL
 
-2. Feature 2
-   - Description
-   - Python implementation approach
+   - Handle nulls, outliers, duplicates
 
-1. User Interface
+3. Analysis Phase
 
-Develop an interactive and user-friendly interface for visualizing credit card spending trends.
+   - SQL queries for trend analysis
 
-Include dashboards, filters, and graph options to allow users to customize their experience.
+   - Excel summaries and calculated metrics
+
+4. Visualization
+
+   - Tableau dashboards for storytelling
+
+   - Charts in Excel for quick overviews
+
+5. Output
+
+   - PDF report
+
+   - Interactive Tableau dashboard
 
 ## Project Timeline
-|Project Timeline
+### 📅 Project Timeline
 
-Phase 1: Define the scope, gather datasets, and set up the project environment (1-2 days).
+| Phase     | Tasks                                                        | Duration     |
+|-----------|--------------------------------------------------------------|--------------|
+| Phase 1   | Define scope, collect data, set up project environment       | 1–2 days     |
+| Phase 2   | Data cleaning and preprocessing in Excel/SQL                 | 2 days       |
+| Phase 3   | Exploratory analysis and SQL query development               | 2 days       |
+| Phase 4   | Build Tableau dashboard and refine visualizations            | 2 days       |
+| Phase 5   | Final report writing, testing, and presentation              | 1–2 days     |
 
-Phase 2: Perform data preprocessing and exploratory analysis (2 days).
-
-Phase 3: Implement models for predicting trends or segmenting spending behavior (2 Days
-
-Phase 4: Build and refine the user interface (2 Days).
-
-Phase 5: Testing and documenting the project, followed by deployment (1-2 Days).
 ## Program Design
-Program Design
+Modular design separating:
 
-Create a modular structure that separates data handling, analysis, visualization, and user interaction into distinct components.
+   - Data input & preprocessing
 
-Use functions and classes to ensure the code is reusable and scalable.
+   - Analysis logic (SQL)
+
+   - Visualization layer (Tableau)
+
+- Use clear naming conventions for datasets, queries, and dashboard elements
+
+- Ensure scalability by creating reusable SQL views and Excel templates
 
 
 ## Potential Challenges
-Potential Challenges
-Data Quality: Incomplete or inconsistent credit card spending data may require advanced preprocessing techniques.
+Data Quality: Incomplete or misaligned data from various sources
 
-Scalability: Handling large datasets efficiently, particularly when real-time analysis is required.
+Integration Issues: Ensuring Excel, SQL, and Tableau work seamlessly
 
-Bias: Ensure that your analysis is unbiased and accurately reflects spending trends across diverse demographics in India.
+Subjectivity in Sentiment Analysis: May need qualitative validation
+
+Scalability: Handling large-scale datasets efficiently
 
 ## Future Improvements
 - Future Improvements
-Additional Features: Incorporate machine learning models to predict spending trends or fraud detection.
+Integrate real-time data feeds from social platforms or APIs
 
-Geographical Insights: Enhance analysis by integrating geographic visualization using libraries like Geopandas.
+Add a sentiment analysis model to classify new AI-generated content
 
-Real-time Data Handling: Enable real-time analysis by connecting to APIs or live databases.
+Include geographic visualizations to see regional variations
 
-Mobile Accessibility: Extend the project into a mobile-friendly interface.
+Develop a mobile-friendly version of the dashboard using Tableau Public
