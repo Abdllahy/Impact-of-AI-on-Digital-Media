@@ -38,7 +38,6 @@ Line graphs for time-based sentiment analysis
 
 Bar charts for industry-specific engagement comparisons
 
-
 ### SQL Components
 
    - Database Tool: MySQL
