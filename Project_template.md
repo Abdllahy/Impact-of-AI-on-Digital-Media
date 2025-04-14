@@ -152,3 +152,37 @@ Add a sentiment analysis model to classify new AI-generated content
 Include geographic visualizations to see regional variations
 
 Develop a mobile-friendly version of the dashboard using Tableau Public
+
+## Project Questions
+How has the volume of AI-generated content evolved over the past 5 years?
+
+Which industries are using AI-generated content the most (e.g., journalism, marketing, entertainment)?
+
+What is the growth rate of AI-generated media content adoption per sector?
+
+What is the general sentiment (positive, neutral, negative) towards AI-generated content on platforms like Twitter, Reddit, etc.?
+
+How does sentiment vary across different industries?
+
+Do AI-generated articles/videos/posts get more or less engagement (likes, shares, comments) than human-generated ones?
+
+Which platforms have the highest interaction rates with AI-generated content?
+
+What are the revenue trends associated with AI-generated content?
+
+How have content creation costs changed with AI adoption?
+
+Is there a correlation between AI content use and advertising revenue growth?
+
+Which countries are leading in AI-generated content creation?
+
+What demographics (age, gender, region) interact the most with AI-generated content?
+
+What are the key regulatory concerns or reported incidents related to AI-generated content (e.g., misinformation, deepfakes)?
+
+How frequently are disclaimers used on AI-generated content across industries?
+
+Can we forecast the growth of AI-generated content in the next 3 years?
+
+Which industry is most likely to be disrupted next by AI-generated media?
+
