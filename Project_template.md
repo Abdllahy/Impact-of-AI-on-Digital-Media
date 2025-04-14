@@ -103,8 +103,9 @@ Conclusion and recommendations
 5. Output
 
    - PDF report
-
    - Interactive Tableau dashboard
+   - Github Repository
+   - Medium article of technical steps
 
 ## Project Timeline
 ### 📅 Project Timeline
