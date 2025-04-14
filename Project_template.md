@@ -30,7 +30,6 @@ Data Transformation: Creating calculated columns and conditional formatting
 
 Pivot Tables & Charts: For summary statistics and trend visualization
 
-Lookup Functions: VLOOKUP, HLOOKUP, and INDEX-MATCH for data joining
 
    - Key Excel Visualizations
 
