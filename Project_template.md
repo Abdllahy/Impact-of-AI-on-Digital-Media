@@ -9,7 +9,6 @@ The findings will be useful for data analysts, content strategists, and policy m
 
 ## Problem Statement
 
-The increasing prevalence of AI-generated content raises questions about its impact on traditional media, consumer engagement, and economic outcomes. This project seeks to answer:
 
 - How has public sentiment evolved regarding AI-generated content?
 
@@ -17,7 +16,6 @@ The increasing prevalence of AI-generated content raises questions about its imp
 
 - What economic and regulatory shifts have occurred alongside AI content adoption?
 
-The goal is to provide actionable insights and forecasts by analyzing structured data using Excel, SQL, and Tableau.
 
 ## Technical Details
 
