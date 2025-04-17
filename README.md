@@ -83,3 +83,10 @@ A detailed report analyzing all findings, visuals, and SQL logic is available he
 
 📘 [Read the Full Report on Canva](https://www.canva.com/design/DAGklz10xdM/8bF5IReOTrd5a9OcdYNmVQ/view?utm_content=DAGklz10xdM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc4d1a3eeb8)  
 📩 [Subscribe to Insights on Substack](https://yourusername.substack.com)
+
+## 🧾 Dataset
+
+The dataset used in this project is publicly available on Kaggle:
+
+📂 [Download from Kaggle](https://www.kaggle.com/datasets/atharvasoundankar/impact-of-ai-on-digital-media-2020-2025?resource=download)
+
