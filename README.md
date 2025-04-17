@@ -72,6 +72,7 @@ Explore the dashboards built using **Tableau Public**:
 - ### 🖼️ Dashboard Preview
 ![Dashboard 1](https://github.com/user-attachments/assets/0fd3936f-20fc-429b-8428-8a60645d4126)
 
+### Links to the Charts
 - [🌍 AI Content by Country](https://public.tableau.com/views/BiggestAIcontentgeneratedbycountry/BiggestAIContentbycountry)
 - [📈 AI Adoption by Country](https://public.tableau.com/views/HighestAIadoptionindifferentcountries/HighestAIAdoption)
 - [💰 Revenue Growth by Industry](https://public.tableau.com/views/HighestincreaseinrevenueduetoAI/HighestincreaseinrevenueduetoAI)
