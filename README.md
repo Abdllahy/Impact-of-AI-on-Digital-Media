@@ -14,11 +14,6 @@ Hypothesis Testing: Answering key research questions using SQL queries and descr
 
 Regression Modelling (Optional): Laying the foundation for a predictive model to explore relationships between AI adoption and performance metrics.
 
-## 📊 AI Dashboard
-Click below to explore the full interactive dashboard:
-
-[🔗 View Dashboard](https://public.tableau.com/views/AI_Impact_Dashboard/Dashboard1)
-
 
 ## 🔍 1. Exploratory Data Analysis (EDA)
 ### ✅ Data Cleaning
@@ -59,3 +54,32 @@ No. Usage patterns vary:
 Midjourney is dominant in visual-heavy sectors (Gaming, Media).
 
 Claude is preferred in legal, educational, and writing-based domains.
+
+
+## 📊 Dashboards
+
+Explore the dashboards built using **Tableau Public**:
+
+- [🌐 Main AI Impact Dashboard](https://public.tableau.com/views/AI_Impact_Dashboard/Dashboard1)
+- [🌍 AI Content by Country](https://public.tableau.com/views/BiggestAIcontentgeneratedbycountry/BiggestAIContentbycountry)
+- [📈 AI Adoption by Country](https://public.tableau.com/views/HighestAIadoptionindifferentcountries/HighestAIAdoption)
+- [💰 Revenue Growth by Industry](https://public.tableau.com/views/HighestincreaseinrevenueduetoAI/HighestincreaseinrevenueduetoAI)
+- [⚠️ Job Loss by Country](https://public.tableau.com/views/JoblossduetoAI/JoblossduetoAI)
+- [🧠 Most Used AI Tools](https://public.tableau.com/views/TopAItools/TopAItools)
+- [🤝 Trust vs AI Adoption](https://public.tableau.com/views/RelationshipbetweenAIandconsumertrust/AIandConsumertrust)
+- [📊 AI Regulation Impact on Trust](https://public.tableau.com/views/Howregulationtypesaffecttrustlevels/Howdoregulationtypesaffecttrustlevels)
+
+## 🔍 Key Findings
+
+- 🚗 **Automotive** industry had the highest AI-driven revenue growth at **46.48%**
+- 📈 **Automotive** also had the highest AI adoption rate in **2025** at **92.96%**
+- 🇩🇪 **Germany** leads in global consumer trust in AI (**64.95%**)
+- 🎮 **Gaming** generated the most AI content at **1,200.7 TBs**
+- 🛠️ Most widely used AI tools: **Midjourney** and **Claude**
+
+## 📄 Full Report
+
+A detailed report analyzing all findings, visuals, and SQL logic is available here:
+
+📘 [Read the Full Report on Canva](https://www.canva.com/design/DAGklz10xdM/8bF5IReOTrd5a9OcdYNmVQ/view?utm_content=DAGklz10xdM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc4d1a3eeb8)  
+📩 [Subscribe to Insights on Substack](https://yourusername.substack.com)
