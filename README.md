@@ -2,6 +2,14 @@
 
 Welcome to the Impact of AI on Industries End-to-End Analysis Project. This project simulates a real-world scenario where data storytelling and actionable insights drive decision-making. As a Data Analyst, i worked through each stage of the analytical process to solve key challenges and answer pressing research questions.
 ## Table of Contents
+- [📘 Project Overview](#-project-overview)
+- [🔍 Key Findings](#-key-findings)
+- [🧰 Tools & Technologies](#-tools--technologies)
+- [📊 Dashboards](#-dashboards)
+- [🧾 Dataset](#-dataset)
+- [📄 Full Report](#-full-report)
+- [📬 Connect with Me](#-connect-with-me)
+- [🧠 Future Enhancements](#-future-enhancements)
 
 ## Project Overview
 In this project, my goal is to analyze the global influence of artificial intelligence (AI) across industries and countries. Using structured data, I explore how AI adoption affects revenue growth, job loss, public trust, and content generation across sectors.
@@ -76,6 +84,8 @@ Explore the dashboards built using **Tableau Public**:
 - 🇩🇪 **Germany** leads in global consumer trust in AI (**64.95%**)
 - 🎮 **Gaming** generated the most AI content at **1,200.7 TBs**
 - 🛠️ Most widely used AI tools: **Midjourney** and **Claude**
+
+## Future Enhancements
 
 ## 📄 Full Report
 
