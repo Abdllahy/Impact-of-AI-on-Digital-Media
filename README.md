@@ -69,6 +69,7 @@ Claude is preferred in legal, educational, and writing-based domains.
 Explore the dashboards built using **Tableau Public**:
 
 - [🌐 Main AI Impact Dashboard](https://public.tableau.com/views/AI_Impact_Dashboard/Dashboard1)
+- [![AI Impact Dashboard](https://public.tableau.com/static/images/AI/AI_Impact_Dashboard/1.png)](https://public.tableau.com/views/AI_Impact_Dashboard/Dashboard1)
 - [🌍 AI Content by Country](https://public.tableau.com/views/BiggestAIcontentgeneratedbycountry/BiggestAIContentbycountry)
 - [📈 AI Adoption by Country](https://public.tableau.com/views/HighestAIadoptionindifferentcountries/HighestAIAdoption)
 - [💰 Revenue Growth by Industry](https://public.tableau.com/views/HighestincreaseinrevenueduetoAI/HighestincreaseinrevenueduetoAI)
