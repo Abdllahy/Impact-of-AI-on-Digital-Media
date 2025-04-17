@@ -90,3 +90,12 @@ The dataset used in this project is publicly available on Kaggle:
 
 📂 [Download from Kaggle](https://www.kaggle.com/datasets/atharvasoundankar/impact-of-ai-on-digital-media-2020-2025?resource=download)
 
+## 📬 Connect with Me
+
+- 📰 [Medium Blog](https://medium.com/@yourmediumhandle)
+- 📩 [Substack Newsletter](https://yourusername.substack.com)
+- 💻 [GitHub Profile](https://github.com/yourgithubusername)
+
+> **Built by Abdullahi Bashir** — A data science project showcasing the intersection of AI, industries, and global transformation.
+
+
